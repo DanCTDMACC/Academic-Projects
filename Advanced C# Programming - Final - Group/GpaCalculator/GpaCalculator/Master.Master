@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" 
+    AutoEventWireup="true" 
+    CodeBehind="Master.master.cs" 
+    Inherits="GpaCalculator.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head id="title" runat="server">
+        <title>GPA Calculator</title>
+        <link href="Content/bootstrap.css" rel="stylesheet" />
+        <link href="Css/MainStyle.css" rel="stylesheet" />
+        <asp:ContentPlaceHolder ID="placeholderHead" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+
+    <body class="mainBack">
+        <header id="header" runat="server" class="header">
+            <h1>GPA Calculator</h1>
+            <asp:Hyperlink ID="HomeLink" NavigateUrl="~/GpaCalculatorHome.aspx"
+                runat="server">Home</asp:Hyperlink>
+            <asp:Hyperlink ID="GradesLink" NavigateUrl="~/GpaCalculatorGrades.aspx"
+                runat="server">Grades</asp:Hyperlink>  
+            <asp:HyperLink ID="LoginLink" NavigateUrl="~/GpaCalculatorLog.aspx"
+                runat="server">Login</asp:HyperLink>
+            <asp:HyperLink ID="LogoutLink" NavigateUrl="~/GpaCalculatorHome.aspx" 
+                runat="server" >Logout</asp:HyperLink>
+            <asp:Hyperlink ID="RegisterLink" NavigateUrl="~/GpaCalculatorRegister.aspx"
+                runat="server">Register</asp:Hyperlink>
+            <asp:HyperLink ID="AccountLink" NavigateUrl="~/GpaCalculatorAccount.aspx" 
+                runat="server">Account</asp:HyperLink>
+            <asp:Hyperlink ID="AboutLink" NavigateUrl="~/GpaCalculatorAbout.aspx"
+                runat="server">About</asp:Hyperlink>
+            <asp:ContentPlaceHolder ID="placeholderHeader" runat="server">
+            </asp:ContentPlaceHolder>
+            
+        </header>
+        <section>
+            <asp:ContentPlaceHolder id="placeholderForm" runat="server">       
+           
+            </asp:ContentPlaceHolder>
+        </section>
+        <footer>
+            <asp:ContentPlaceHolder ID="placeholderFooter" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:Label ID="lblCopyright" Cssclass="text-default" 
+                        runat="server" Text="CIS 174, Spring Semester">
+            </asp:Label>
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+﻿.header {
+   background-color: lightblue;
+   
+}
+.mainBack {
+    background-image: url('../Images/unnamed.png');
+}
+
+.whiteBack {
+    background-color: white;
+}

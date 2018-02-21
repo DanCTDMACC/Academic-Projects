@@ -1,0 +1,9 @@
+﻿  MainClass.cpp
+\\mac\home\desktop\btlshpgroupproj\battleshipprojectv4\battleshipproject\player.cpp(169): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\desktop\btlshpgroupproj\battleshipprojectv4\battleshipproject\player.cpp(184): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\desktop\btlshpgroupproj\battleshipprojectv4\battleshipproject\player.cpp(199): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\desktop\btlshpgroupproj\battleshipprojectv4\battleshipproject\player.cpp(214): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\desktop\btlshpgroupproj\battleshipprojectv4\battleshipproject\player.cpp(225): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\desktop\btlshpgroupproj\battleshipprojectv4\battleshipproject\player.cpp(232): warning C4018: '<': signed/unsigned mismatch
+  BattleShipProject.vcxproj -> \\Mac\Home\Desktop\BtlshpGroupProj\BattleShipProjectv4\Debug\BattleShipProject.exe
+  BattleShipProject.vcxproj -> \\Mac\Home\Desktop\BtlshpGroupProj\BattleShipProjectv4\Debug\BattleShipProject.pdb (Full PDB)

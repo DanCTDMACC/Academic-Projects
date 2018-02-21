@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	
+		<!--
+			Project - Final
+			Auther: Danh Tran
+			Date: 04/10/2017
+		--->
+		
+		<title>Project - Final</title>
+		
+		<style type = "text/css">
+			* {
+				margin: 0;
+				padding: 0;
+			}
+			body {
+				background-color: #eeeeee;
+			}
+			#wrapper {
+				width: 700px;
+				margin: 0 auto;	
+				background-color: white;
+				border: solid 5px #dddddd;
+			}
+			header {
+				margin: 10px 0;
+				text-align: center;
+			}
+			footer {
+				margin: 30px 0 10px;
+				text-align: center;
+			}
+			#img-wrapper {
+				margin: 10px auto;
+				height: 500px;
+				width: 500px;
+				text-align: center;
+				background-color: black;
+			}
+			.imageClass {		// source for this style: http://stackoverflow.com/questions/787839/resize-image-proportionally-with-css
+				height: auto; 
+				width: auto;
+				max-width: 500px; 
+				max-height: 500px;
+			}
+			#previous-strip {
+				height: 70px;
+				width: 40px;
+				line-height: 70px;
+				background-color: #dddddd;
+				font-weight: bold;
+				font-size: 2em;
+				float: left;
+			}
+			#next-strip {
+				height: 70px;
+				width: 40px;
+				line-height: 70px;
+				background-color: #dddddd;
+				font-weight: bold;
+				font-size: 2em;
+				float: right;
+			}
+			#strip-wrapper {
+				margin: 10px auto;
+				height: 70px;
+				width: 500px;
+				text-align: center;
+				background-color: #EEEEEE;
+			}
+			#thumbnail-wrapper {
+				margin: 0 auto;
+			}
+			.thumbnailWrapper {
+				float: left;
+				width: 70px;
+				height: 70px;
+				margin: 0 5px;
+			}
+			.thumbnail {
+				height: auto;
+				width: auto;
+				max-height: 70px;
+				max-width: 70px;
+			}
+			.current-thumbnail {
+				border: solid 1px black;
+			}
+			#ctrl-wrapper {
+				width: 600px;
+				margin: 10px auto 30px;
+				text-align: center;
+			}
+			button, input {
+				background-color: white;
+				border: 1px solid gray;
+				border-radius: 3px;
+				height: 30px;
+			}
+			#ctrl-wrapper button {
+				width: 150px;
+				margin: 0 20px;
+			}
+			#error-wrapper, #add-image-wrapper {
+				width: 600px;
+				margin: 10px auto;
+				text-align: center;
+			}
+			.error-box {
+				border: red 1px solid;
+			}
+			.hidden {
+				display: none;
+			}
+			label {
+				display: block;
+				margin: 10px 0;
+			}
+		
+		</style>
+		
+	</head>
+	
+	<body>
+		<div id = "wrapper">
+			<header>
+				<h2>Image Changer and Uploader</h2>
+			</header>
+			<section id "main">
+				<div id = "img-wrapper">
+				</div>
+				<div id = "strip-wrapper">
+					<span id="previous-strip"><</span>
+					<div id = "thumbnail-wrapper">
+					</div>
+					<span id="next-strip">></span>
+				</div>
+				<div id = "ctrl-wrapper">
+					<button id = "previous-button">Previous</button>
+					<button id = "next-button">Next</button>
+				</div>
+				<div id="error-wrapper" class="error-box hidden">
+					<p>New Image textbox can not be empty.</p>
+				</div>
+				<div id = "add-image-wrapper">
+					<label for="new-image">New Image:</label>
+					<input type="text" id="new-image" size = "60"
+						value="http://pbs.twimg.com/profile_images/554344612832092160/WRLmixCH_400x400.png"/>
+					<button id="add-new-image">Add New Image</button>
+				</div>
+			</section>	<!-- end of main -->
+			<footer>
+				<h6>This website is an asignment project and for academic purposes only.</h6>
+			</footer>
+		</div>	<!-- end of wrapper -->
+	</body>
+	<script>
+		// Extra
+		var nextStripEl = document.querySelector('#next-strip');
+		nextStripEl.addEventListener('click', nextStrip);
+		var previousStripEl = document.querySelector('#previous-strip');
+		previousStripEl.addEventListener('click', previousStrip);
+		// Function to hide the error box.
+		var hideErrorBox = function() {
+			var errorBoxEl = document.querySelector('#error-wrapper');
+			errorBoxEl.className = 'hidden';
+		}
+		// Function to show the error box.
+		var showErrorBox = function() {
+			var errorBoxEl = document.querySelector('#error-wrapper');
+			errorBoxEl.className = 'error-box';
+		}
+		// Create an img element in imgWrapper.
+		var imgWrapper = document.querySelector('#img-wrapper');
+		var imgEl = document.createElement('img');
+		imgWrapper.appendChild(imgEl);
+		
+		// Array of images.
+		var imgArray = ['https://crolek.github.io/WDV-221/assignments/imgs/final/garden.jpg',
+						'https://crolek.github.io/WDV-221/assignments/imgs/final/stewie.jpg',
+						'https://crolek.github.io/WDV-221/assignments/imgs/final/lilsquiggle.jpg'];
+		
+		// Display an image in img element.
+		var imgElSub = 0;
+		imgEl.src = imgArray[imgElSub];
+		imgEl.className = 'imageClass';
+		imgEl.style.visibility = 'hidden';
+		
+		// Function to center the img
+		var centerImg = function(maxHeight, imageElement) {
+			var top = (maxHeight - imageElement.clientHeight) / 2;
+			imageElement.style.marginTop = top + 'px';
+			imageElement.style.visibility = 'visible';
+		}
+		setTimeout(function(){centerImg(500, imgEl)}, 500);
+		refreshStrip();
+		
+		// Event handler for previous button.
+		var prevFunction = function() {
+			hideErrorBox();
+			imgEl.style.visibility = 'hidden';
+			if (imgElSub > 0) {
+				imgElSub--;
+			} else {
+				imgElSub = imgArray.length - 1;
+			}
+			imgEl.src = imgArray[imgElSub];
+			setTimeout(function(){centerImg(500, imgEl)}, 500);
+			refreshStrip();
+		}
+		// Event handler for next button.
+		var nextFunction = function() {
+			hideErrorBox();
+			imgEl.style.visibility = 'hidden';
+			if (imgElSub < imgArray.length - 1) {
+				imgElSub++;
+			} else {
+				imgElSub = 0;
+			}
+			imgEl.src = imgArray[imgElSub];
+			setTimeout(function(){centerImg(500, imgEl)}, 500);
+			refreshStrip();
+		}
+		// Event handler for add new image button.
+		var addFunction = function() {
+			var urlTextbox = document.querySelector('#new-image');
+			var newImageURL = urlTextbox.value;
+			if (newImageURL !== '') {
+				imgArray.push(urlTextbox.value);
+				urlTextbox.value = '';
+			} else {
+				showErrorBox();
+			}
+			refreshStrip();
+		}
+		
+		// Add event handlers to buttons.
+		var nextButton = document.querySelector('#next-button');
+		nextButton.addEventListener('click', nextFunction);
+		var prevButton = document.querySelector('#previous-button');
+		prevButton.addEventListener('click', prevFunction);
+		var addButton = document.querySelector('#add-new-image');
+		addButton.addEventListener('click', addFunction);
+		
+		// Extra
+		function refreshStrip() {
+			var thumbnailWrapperEl = document.querySelector('#thumbnail-wrapper');
+			thumbnailWrapperEl.innerHTML = '';
+			var thumbnailWrapperWidth = 0;
+			var imgPerStrip = 5;
+			var stripPage = (imgElSub / imgPerStrip) | 0;
+			//var stripElements = [];
+			for (var i = 0; i < 5; i++) {
+				var sub = imgElSub - 2 + i;
+				if (sub < 0 || sub >= imgArray.length) {
+					thumbnailWrapperEl.innerHTML += '<span class="thumbnailWrapper"></span>';
+				} else {
+					thumbnailWrapperEl.innerHTML += '<span class="thumbnailWrapper">' +
+						'<img id="tn' + i + '" src="' + imgArray[sub] + '" class="thumbnail" onclick="showImage(this)" /></span>';
+					//var edittingThumbnail = document.querySelector('#tn' + i)
+					//stripElements.push(edittingThumbnail);
+					//stripElements[i].addEventListener('click', test);
+					//centerImg(70, stripElements[i]);
+				}
+				thumbnailWrapperWidth += 80;
+			}
+			thumbnailWrapperEl.style.width = thumbnailWrapperWidth + 'px';
+			if (imgElSub === 0) previousStripEl.style.visibility = 'hidden';
+			else previousStripEl.style.visibility = 'visible';
+			if (imgElSub === imgArray.length - 1) nextStripEl.style.visibility = 'hidden';
+			else nextStripEl.style.visibility = 'visible';
+		}
+		function showImage(thumbnail) {
+			if (thumbnail.id === 'tn0') {
+				imgElSub -= 2;
+			}
+			if (thumbnail.id === 'tn1') {
+				imgElSub -= 1;
+			}
+			if (thumbnail.id === 'tn3') {
+				imgElSub += 1;
+			}
+			if (thumbnail.id === 'tn4') {
+				imgElSub += 2;
+			}
+			imgEl.style.visibility = 'hidden';
+			imgEl.src = imgArray[imgElSub];
+			setTimeout(function(){centerImg(500, imgEl)}, 500);
+			refreshStrip();
+		}
+		
+		function refineSub() {
+			if (imgElSub < 0) imgElSub = 0;
+			else if (imgElSub >= imgArray.length) imgElSub = imgArray.length - 1;
+		}
+		function nextStrip() {
+			hideErrorBox();
+			imgElSub += 5;
+			refineSub();
+			imgEl.style.visibility = 'hidden';
+			imgEl.src = imgArray[imgElSub];
+			setTimeout(function(){centerImg(500, imgEl)}, 500);
+			refreshStrip();
+		}
+		function previousStrip() {
+			hideErrorBox();
+			imgElSub -= 5;
+			refineSub();
+			imgEl.style.visibility = 'hidden';
+			imgEl.src = imgArray[imgElSub];
+			setTimeout(function(){centerImg(500, imgEl)}, 500);
+			refreshStrip();
+		}
+	</script>
+</html>

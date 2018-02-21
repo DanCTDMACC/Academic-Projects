@@ -1,0 +1,75 @@
+/*
+	Final Project
+	Author: Danh Tran
+	Date: 12/11/2016
+	General layout
+*/
+
+/* Universal selector */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* body background */
+body {
+	background: url(../images/background.jpg) sienna repeat fixed; /*from http://www.boorp.com/sfondi_gratis_desktop_pc/sfondo_tazzine_a_cuore_di_caffe_gratis.php*/
+}
+
+/* center align */
+#container {
+	margin: 0 auto;
+	background-color: lightblue;
+}
+
+/* header styles */
+header {
+	text-align: center;
+	font: oblique bold 1.5em "Comic Sans MS", cursive;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	word-spacing: 0.9em;
+	color: chocolate;
+}
+
+/* Navigation styles */
+nav {
+	display: block;
+	text-align: center;
+	background-color: khaki;
+	border-radius: 10px;
+}
+
+nav li{
+	display: inline;
+	list-style-type: none;
+}
+
+nav a {
+	background-color: gainsboro;
+	color: purple;
+	text-decoration: none;
+}
+
+nav a:visited {
+	color: darkgoldenrod;
+}
+
+nav a:hover {
+	color: white;
+	background-color: brown;
+}
+
+nav a:active {
+	color: white;
+	text-decoration: underline;
+}
+
+/* footer styles */
+footer {
+	display: block;
+	text-align: center;
+	background-color: khaki;
+	border-radius: 10px;
+	clear: both;
+}

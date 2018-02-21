@@ -1,0 +1,611 @@
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\ApplicationInsights.config
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe.config
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\csc.rsp
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\csi.exe
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\csi.rsp
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\System.AppContext.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe.config
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\vbc.rsp
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll.config
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\GpaCalculator.pdb
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.xml
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.dll
+F:\Advanced C#\Testing\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\ApplicationInsights.config
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe.config
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\csc.rsp
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\csi.exe
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\csi.rsp
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\System.AppContext.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe.config
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\vbc.rsp
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll.config
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\GpaCalculator.pdb
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.xml
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+F:\Advanced C#\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Advanced C#\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+F:\Advanced C#\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.dll
+F:\Advanced C#\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\ApplicationInsights.config
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe.config
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\csc.rsp
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\csi.exe
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\csi.rsp
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\System.AppContext.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe.config
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\vbc.rsp
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll.config
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\GpaCalculator.pdb
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.dll
+C:\Users\kempej01\Documents\Visual Studio 2015\Projects\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\ApplicationInsights.config
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\csc.exe
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\csc.exe.config
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\csc.rsp
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\csi.exe
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\csi.rsp
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\vbc.exe
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\vbc.rsp
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\GpaCalculator.dll.config
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\GpaCalculator.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\GpaCalculator.pdb
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\obj\Debug\GpaCalculator.dll
+C:\Users\crazy\Dropbox\GPA Calculator\Project\GpaCalculator 004\GpaCalculator\obj\Debug\GpaCalculator.pdb
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\ApplicationInsights.config
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\GpaCalculator.dll.config
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\GpaCalculator.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\GpaCalculator.pdb
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\obj\Debug\GpaCalculator.dll
+C:\Users\crazy\Desktop\GpaCalculator 004\GpaCalculator\obj\Debug\GpaCalculator.pdb
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\ApplicationInsights.config
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe.config
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\csc.rsp
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\csi.exe
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\csi.rsp
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\System.AppContext.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe.config
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\vbc.rsp
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll.config
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\GpaCalculator.pdb
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.dll
+C:\Users\Danh Tran\Downloads\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\ApplicationInsights.config
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll.config
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\GpaCalculator.pdb
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\crazy\Desktop\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\ApplicationInsights.config
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll.config
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\GpaCalculator.pdb
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.dll
+C:\Users\crazy\Desktop\MyVersionGpa\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\ApplicationInsights.config
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\GpaCalculator.dll.config
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\GpaCalculator.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\GpaCalculator.pdb
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\obj\Debug\GpaCalculator.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\obj\Debug\GpaCalculator.pdb
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\ApplicationInsights.config
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll.config
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\GpaCalculator.pdb
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.dll
+C:\Users\crazy\Desktop\MyVersionGpa - Copy\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\ApplicationInsights.config
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe.config
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\csc.rsp
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\csi.exe
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\csi.rsp
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\System.AppContext.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe.config
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\vbc.rsp
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll.config
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\GpaCalculator.pdb
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.dll
+C:\Users\jkempenich\Desktop\Personal\DMACC\Projects\GpaCalculator 04-24\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\ApplicationInsights.config
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe.config
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\csc.rsp
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\csi.exe
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\csi.rsp
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\System.AppContext.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe.config
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\vbc.rsp
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll.config
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\GpaCalculator.pdb
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.xml
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.dll
+D:\DMACC\Semester 4\Advanced C# Programming - CIS 174-WW1 - 23886\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\ApplicationInsights.config
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\csc.exe.config
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\csc.rsp
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\csi.exe
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\csi.rsp
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\System.AppContext.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\System.Collections.Immutable.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\System.Reflection.Metadata.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\vbc.exe.config
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\vbc.rsp
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\roslyn\VBCSCompiler.exe.config
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll.config
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\GpaCalculator.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\GpaCalculator.pdb
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.AI.DependencyCollector.xml
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.AI.Web.xml
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.AI.WindowsServer.xml
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.ApplicationInsights.xml
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.csprojResolveAssemblyReference.cache
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.dll
+D:\DMACC\Semester 4\GpaCalculator\GpaCalculator\obj\Debug\GpaCalculator.pdb

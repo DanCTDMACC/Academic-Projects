@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--
+			Final Project - Job
+			Author: Danh Tran
+			Date: 12/11/2016
+			Fixed-width 3 columns.
+		-->
+		
+		<meta name = "description" content = ", Zanzibars is a funky destination with fresh roasted coffee, espresso drinks, hot and cold teas, grilled and cold sandwiches, and homemade soups. Enjoy some live entertainment in our connected theatre space both day and night" />
+		
+		<meta name = "keywords" content = "beverage, coffee, wine, food, beer, sandwiches, soup, dessert, music, event, job, daytime, nighttime" />
+		
+		<title>Job</title>
+		
+		<script src = "modernizr-2.js"></script>
+		
+		<link href = "files/generallayout.css" rel = "stylesheet" type = "text/css" media = "screen" />
+		<link href = "files/3colfixedlayout.css" rel = "stylesheet" type = "text/css" media = "screen" />
+		<link href = "files/printlayout.css" rel = "stylesheet" type = "text/css" media = "print" />
+		
+		<style type = "text/css">
+			/* form styles */
+			fieldset {
+				border: solid 1px firebrick;
+				padding: 5px;
+				margin: 10px 0;
+			}
+			
+			legend {
+				padding: 0 10px;
+			}
+
+			.floatleft label {
+				width: 130px;
+				margin: 5px 10px 0 0;
+				text-align: right;
+				float: left;
+			}
+			
+			.floatleft input {
+				margin-top: 6px;
+				display: block;
+			}
+			
+			fieldset fieldset {
+				margin: 0;
+				clear: both;
+				border: none;
+			}
+			
+			label {
+				margin-right: 10px;
+			}
+			
+			select {
+				margin-top: 6px;
+				display: block;
+			}
+			
+			fieldset.border {
+				margin: 0 0 20px;
+				border: solid 1px lavender;
+			}
+			
+			.button {
+				padding: 5px 20px;
+				background-color: lightyellow;
+			}
+		</style>
+	</head>
+	<body>
+		<div id = "container">
+			<section id = "top">
+			<header>
+				<h1>Zanzibar Coffee House</h1>
+			</header>
+			</section>	<!-- end of top -->
+			
+			<nav>
+				<ul>
+					<li><a href = "index.htm" title = "Home Page">Home</a></li>
+					<li><a href = "menu.htm" title = "Menu">Menu</a></li>
+					<li><a href = "events.htm" title = "Events">Events</a></li>
+					<li><a href = "location.htm" title = "Location">Location</a></li>
+<!-- inline style ************************************************************************************************************************************* -->
+					<li><a href = "job.htm" title = "Job" style = "background-color: lightblue; color: forestgreen;">Job</a></li>
+					<li><a href = "about.htm" title = "About">About</a></li>
+				</ul>
+			</nav>
+			
+			<section id = "leftside">
+				<h3>Our opening time</h3>
+				
+				<table>
+					<tr><th>Day</th><th>Open</th><th>Close</th></tr>
+					<tr><td rowspan = "4">Monday - Thursday</td><td>8:30</td><td>9:30</td></tr>
+					<tr><td>8:30</td><td>21:30</td></tr>
+					<tr><td>8:30</td><td>21:30</td></tr>
+					<tr><td>8:30</td><td>21:30</td></tr>
+					<tr><td>Friday</td><td>8:30</td><td>23:00</td></tr>
+					<tr><td>Saturday</td><td>8:00</td><td>20:00</td></tr>
+					<tr><td>Sunday</td><td colspan = "2">Close</td></tr>
+				</table>
+			</section>	<!-- end of leftside -->
+			
+			<section id = "rightside">
+				<h3>How Former Employees Think</h3>
+				
+				<p class = "comment">...Great conditions and great environment to work...</p>
+				<p class = "name">Katherine Nop - student</p>
+				
+				<p class = "comment">...Friendly both to customers and coworkers...</p>
+				<p class = "name">Gavin Song - local resident</p>
+				
+				<p class = "comment">...Still keep in touch with managers and coworkers. Nice folks...</p>
+				<p class = "name">Mark Anderson - out-state resident</p>
+			</section>	<!-- end of rightside -->
+			
+			<section id = "main">
+				<h3>Job application</h3>
+				<form id="apply" name = "apply" method = "post" action="formHandler.php">
+					<fieldset class = "floatleft"><legend>Personal Information</legend>
+						<label for = "firstname">First name</label>
+						<input type = "text" name = "firstname" id = "firstname" size = "20" />
+						
+						<label for = "lastname">Last name</label>
+						<input type = "text" name = "lastname" id = "lastname" size = "20" />
+						
+						<label for = "year">Year of Birth</label>
+						<input type = "text" name = "year" id = "year" size = "10" maxlength = "4" />
+					</fieldset>
+					<fieldset>
+						<fieldset>
+						<label>Gender:</label>
+						<input type = "radio" name = "gender" id = "male" value = "male" />
+						<label for = "male">Male</label>
+						
+						<input type = "radio" name = "gender" id = "female" value = "female" />
+						<label for = "female">Female</label>
+						</fieldset>
+						
+						<fieldset>
+						<label>Are you a U.S. citizen?</label>
+						<input type = "radio" name = "citizen" id = "citizen" value = "citizen" checked = "checked" />
+						<label for = "citizen">Yes</label>
+						
+						<input type = "radio" name = "citizen" id = "noncitizen" value = "noncitizen" />
+						<label for = "noncitizen">No</label>
+						</fieldset>
+					</fieldset>
+					<fieldset class = "floatleft"><legend>Contact Information</legend>
+						<label for = "street1">Street Address 1</label>
+						<input type = "text" name = "street1" id = "street1" size = "30" />
+						
+						<label for = "street2">Street Address 2</label>
+						<input type = "text" name = "street2" id = "street2" size = "30" />
+						
+						<label for = "city">City</label>
+						<input type = "text" name = "city" id = "city" size = "20" />
+						
+						<label for = "state">State</label>
+						<select name = "state" id = "state">
+							<option value = "iowa">Iowa</option>
+							<option value = "illinois">Illinois</option>
+							<option value = "minesota">Minesota</option>
+							<option value = "missouri">Missouri</option>
+							<option value = "nebraska">Nebraska</option>
+						</select>
+						
+						<label for = "zip">Zip code</label>
+						<input type = "text" name = "zip" id = "zip" size = "10" />
+						
+						<label for = "phone">Phone number</label>
+						<input type = "text" name = "phone" id = "phone" size = "10" value = "515" />
+						
+						<label for = "email">Email</label>
+						<input type = "text" name = "email" id = "email" size = "40" placeholder = "email@somewhere.com" />
+					</fieldset>
+					<fieldset><legend>Job experience and expectation (Mark all that apply)</legend>
+						<fieldset><legend>Your job experience:</legend>
+							<fieldset>
+								<input type = "checkbox" name = "experience" id = "restaurant" value = "restaurant" />
+								<label for = "restaurant">Restaurant</label>
+							</fieldset>
+							<fieldset>
+								<input type = "checkbox" name = "experience" id = "cafeteria" value = "cafeteria" />
+								<label for = "cafeteria">Cafeteria</label>
+							</fieldset>
+							<fieldset>
+								<input type = "checkbox" name = "experience" id = "coffeeshop" value = "coffeeshop" />
+								<label for = "coffeeshop">Coffee Shop</label>
+							</fieldset>
+							<fieldset>
+								<input type = "checkbox" name = "experience" id = "other" value = "other" />
+								<label for = "other">Other Jobs</label>
+							</fieldset>
+							<fieldset>
+								<input type = "checkbox" name = "experience" id = "none" value = "none" />
+								<label for = "none">No Job Experience</label>
+							</fieldset>
+						</fieldset>
+						
+						<fieldset class = "border">
+							<label>Do you have license to serve alcohol?</label>
+							<input type = "radio" name = "license" id = "license" value = "license" checked = "checked" />
+							<label for = "license">Yes</label>
+							
+							<input type = "radio" name = "license" id = "nolicense" value = "no license" />
+							<label for = "nolicense">No</label>
+						</fieldset>
+						
+						<fieldset><legend>Where would you like to work at the shop?</legend>
+							<fieldset>
+								<input type = "checkbox" name = "position" id = "front" value = "front" />
+								<label for = "front">Front Area</label>
+							</fieldset>
+							<fieldset>
+								<input type = "checkbox" name = "position" id = "kitchen" value = "kitchen" />
+								<label for = "kitchen">Kitchen</label>
+							</fieldset>
+							<fieldset>
+								<input type = "checkbox" name = "position" id = "pakaging" value = "pakaging" />
+								<label for = "pakaging">Pakaging</label>
+							</fieldset>
+							<fieldset>
+								<input type = "checkbox" name = "position" id = "delivery" value = "delivery" />
+								<label for = "delivery">Delivery</label>
+							</fieldset>
+						</fieldset>
+						
+						<fieldset class = "border">
+							<label>Can you work full-time?</label>
+							<input type = "radio" name = "fulltime" id = "yes" value = "yes" checked = "checked" />
+							<label for = "yes">Yes</label>
+							
+							<input type = "radio" name = "fulltime" id = "no" value = "no" />
+							<label for = "no">No</label>
+						</fieldset>
+					</fieldset>
+						
+					<fieldset><legend>Something about you that we might miss:</legend>
+						<textarea name = "moreinformation" id = "moreinformation" rows = "10" cols = "50"></textarea>
+					</fieldset>
+					
+					<input type = "submit" value = "Send" class = "button" />
+					<input type = "reset" value = "Reset" class = "button" />
+				</form>
+			</section>	<!-- end of main -->
+			
+			<footer>
+				<h2>Follow us</h2>
+				<a href = "http://www.facebook.com/zanzibarcoffeehouse/" title = "Our facebook page">
+					<img src = "images/facebook-icon.png" width = "50" height = "50" alt = "Facebook" title = "Facebook" />
+				</a>
+				<a href = "http://www.twitter.com/zanzibarcoffeehouse/" title = "Our Twitter page">
+					<img src = "images/twitter-icon.png" width = "50" height = "50" alt = "Twitter" title = "Twitter" />
+				</a>
+				<br />
+				<a href = "#top" title = "Top">To the Top</a>
+				<br />
+				<br />
+				<h5>
+					Zanzibars Coffee House<br />
+					604 24th Street<br />
+					Minneapolis, Minnesota<br />
+					702-971-1154<br />
+					<a href = "mailto:zanzibarcoffeehouse@here.com" title = "mailto:zanzibarcoffeehouse@here.com">zanzibarcoffeehouse@here.com</a>
+				</h5>
+				<a href="http://jigsaw.w3.org/css-validator/check/referer">
+					<img style="border:0;width:88px;height:31px"
+						src="http://jigsaw.w3.org/css-validator/images/vcss"
+						alt="Valid CSS!" />
+				</a>
+				<h6>This website is an asignment project and for academic purposes only.</h6>
+			</footer>
+		</div>	<!-- end of container -->
+	</body>
+</html>

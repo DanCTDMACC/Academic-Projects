@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--
+			Final Project - Menu
+			Author: Danh Tran
+			Date: 12/11/2016
+			Variable-width 3 columns.
+		-->
+		
+		<meta name = "description" content = ", Zanzibars is a funky destination with fresh roasted coffee, espresso drinks, hot and cold teas, grilled and cold sandwiches, and homemade soups. Enjoy some live entertainment in our connected theatre space both day and night" />
+		
+		<meta name = "keywords" content = "beverage, coffee, wine, food, beer, sandwiches, soup, dessert, music, event, job, daytime, nighttime" />
+		
+		<title>Menu</title>
+		
+		<script src = "modernizr-2.js"></script>
+		
+		<link href = "files/generallayout.css" rel = "stylesheet" type = "text/css" media = "screen" />
+		<link href = "files/3colvariablelayout.css" rel = "stylesheet" type = "text/css" media = "screen" />
+		<link href = "files/printlayout.css" rel = "stylesheet" type = "text/css" media = "print" />
+		
+		<style type = "text/css">
+			/* background for menu list */
+			#main {
+				background-color: white;
+			}
+			
+			/* list styles for menu list */
+			ol {
+				font-weight: bold;
+				padding: 1% 5%;
+			}
+			
+			ul {
+				font-weight: normal;
+				list-style-position: inside;
+				text-indent: 1em;
+			}
+			
+			dl {
+				text-indent: 1em;
+			}
+			
+			dt {
+				font-weight: bold;
+			}
+			
+			dd {
+				padding-left: 7%;
+				font-weight: normal;
+				text-indent: 1em;
+			}
+		</style>
+	</head>
+	<body>
+		<div id = "container">
+			<section id = "top">
+			<header>
+				<h1>Zanzibar Coffee House</h1>
+			</header>
+			</section>	<!-- end of top -->
+			
+			<nav>
+				<ul>
+					<li><a href = "index.htm" title = "Home Page">Home</a></li>
+<!-- inline style ************************************************************************************************************************************* -->
+					<li><a href = "menu.htm" title = "Menu" style = "background-color: lightblue; color: forestgreen;"	>Menu</a></li>
+					<li><a href = "events.htm" title = "Events">Events</a></li>
+					<li><a href = "location.htm" title = "Location">Location</a></li>
+					<li><a href = "job.htm" title = "Job">Job</a></li>
+					<li><a href = "about.htm" title = "About">About</a></li>
+				</ul>
+			</nav>
+			
+			<section id = "leftside">
+				<h3>Our opening time</h3>
+				
+				<table>
+					<tr><th>Day</th><th>Open</th><th>Close</th></tr>
+					<tr><td rowspan = "4">Monday - Thursday</td><td>8:30</td><td>9:30</td></tr>
+					<tr><td>8:30</td><td>21:30</td></tr>
+					<tr><td>8:30</td><td>21:30</td></tr>
+					<tr><td>8:30</td><td>21:30</td></tr>
+					<tr><td>Friday</td><td>8:30</td><td>23:00</td></tr>
+					<tr><td>Saturday</td><td>8:00</td><td>20:00</td></tr>
+					<tr><td>Sunday</td><td colspan = "2">Close</td></tr>
+				</table>
+			</section>	<!-- end of leftside -->
+			
+			<section id = "rightside">
+				<h3>Feelings About Our Menu Items</h3>
+				
+				<p class = "comment">...Chai Tea is unique, I taste it almost every week...</p>
+				<p class = "name">Luke Dawson - student</p>
+				
+				<p class = "comment">...Zanzibar signature soup is unforgetable...</p>
+				<p class = "name">Ben Larson - student</p>
+				
+				<p class = "comment">...So peculiar the taste of coffee here...</p>
+				<p class = "name">Owen Markus - traveller</p>
+			</section>	<!-- end of rightside -->
+			
+			<section id = "main">
+				<h3>Menu</h3>
+				<ol>
+					<li>Coffee & Beverages
+						<ul>
+							<li>Fresh Roasted Coffee</li>
+							<li>Mocha Latte</li>
+							<li>Hot Chocolate</li>
+							<li>Chai Tea</li>
+							<li>Frappe</li>
+						</ul>
+					</li>
+					<li>Wine
+						<ul>
+							<li>Featuring California Cellars Varietals</li>
+							<li>Chardonnay</li>
+							<li>Pinot Grigio</li>
+							<li>Merlot</li>
+							<li>Cabernet Sauvingnon</li>
+						</ul>
+					</li>
+					<li>Beer (bottled only)
+						<ul>
+							<li>Budwiser</li>
+							<li>Bud Light</li>
+							<li>Coors</li>
+							<li>Coors Light</li>
+							<li>Blue Moon</li>
+							<li>Exile Ruthie</li>
+							<li>Firetrucker Tropical Burn</li>
+						</ul>
+					</li>
+					<li>Sandwiches
+						<dl>
+							<dt>Grilled Vegetable Panini</dt>
+							<dd>Tomato, onion, cucumber, romaine lettuce, sprouts, muenster cheese & basil pesto served grilled on multigrain panini bread (make it a wrap for FREE) $6.99</dd>
+							
+							<dt>East Street Chicken Salad</dt>
+							<dd>Our FAMOUS chicken salad topped with swiss cheese, artisan leaf lettuce, ripe tomato & served on a croissant $6.99</dd>
+							
+							<dt>Black Russian Reuben</dt>
+							<dd>Toasted black Russian bagel filled with pastrami, swiss cheese, sauerkraut & thousand island dressing $6.99</dd>
+							
+							<dt>Key City Ham Panini</dt>
+							<dd>Ham, smoked gouda cheese, sliced apple, onion & sweet chutney served grilled on multigrain panini bread $6.99</dd>
+							
+							<dt>Black Bean Burger</dt>
+							<dd>Southwest black bean garden burger topped with cheddar cheese, lettuce, tomato, onion & southwest ranch dressing on a grilled ciabatta square $6.99</dd>
+							
+							<dt>Panini Italiano</dt>
+							<dd>Fresh mozzarella, ripe tomatoes, basil pesto & balsamic glaze grilled on multigrain panini bread $6.99</dd>
+							
+							<dt>The Grilled Tuna Salad Panini</dt>
+							<dd>House tuna salad, sprouts & cheddar cheese grilled on multigrain panini bread $6.99
+						</dl>
+					</li>
+					<li>Soups
+						<dl>
+							<dt>Zanzibars Signature Soup</dt>
+							<dd>Our famous roasted red pepper & gouda</dd>
+							
+							<dt>Soup of the Day</dt>
+							<dd>Always changing, timed for the season & great with a salad or sandwich</dd>
+							
+							<dt>Soup & Sandwich</dt>
+							<dd>Choice of soup & half sandwich (no wraps, bagels or croissants as 1/2 sandwiches) $7.29</dd>
+							
+							<dt>Soup & Salad</dt>
+							<dd>Choice of soup & any half salad $7.29
+						</dl>
+					</li>
+					<li>Desserts
+						<dl>
+							<dt>Enjoy the EVER Changing & always tasty - BAKERY CASE!</dt>
+							<dd>Yogurt Muffins Pastries Quiche Cigars & Strudels Iced Cinnamon Rolls</dd>
+						</dl>
+					</li>
+				</ol>
+			</section>	<!-- end of main -->
+			
+			<footer>
+				<h2>Follow us</h2>
+				<a href = "http://www.facebook.com/zanzibarcoffeehouse/" title = "Our facebook page">
+					<img src = "images/facebook-icon.png" width = "50" height = "50" alt = "Facebook" title = "Facebook" />
+				</a>
+				<a href = "http://www.twitter.com/zanzibarcoffeehouse/" title = "Our Twitter page">
+					<img src = "images/twitter-icon.png" width = "50" height = "50" alt = "Twitter" title = "Twitter" />
+				</a>
+				<br />
+				<a href = "#top" title = "Top">To the Top</a>
+				<br />
+				<br />
+				<h5>
+					Zanzibars Coffee House<br />
+					604 24th Street<br />
+					Minneapolis, Minnesota<br />
+					702-971-1154<br />
+					<a href = "mailto:zanzibarcoffeehouse@here.com" title = "mailto:zanzibarcoffeehouse@here.com">zanzibarcoffeehouse@here.com</a>
+				</h5>
+				<a href="http://jigsaw.w3.org/css-validator/check/referer">
+					<img style="border:0;width:88px;height:31px"
+						src="http://jigsaw.w3.org/css-validator/images/vcss"
+						alt="Valid CSS!" />
+				</a>
+				<h6>This website is an asignment project and for academic purposes only.</h6>
+			</footer>
+		</div>	<!-- end of container -->
+	</body>
+</html>

@@ -1,0 +1,39 @@
+/*
+	Final Project
+	Author: Danh Tran
+	Date: 12/11/2016
+	Print layout
+*/
+
+/* Universal selector */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* page size */
+@page {
+	size: 8.5in 11in;
+	margin: 0.5in;
+}
+
+/* element rules for printing */
+body {
+	color: black;
+	background-color: white;
+	background-image:none;
+	font-size: 12pt;
+	font-family: "Times New Roman", Times, serif;
+	line-height: 120%;
+}
+
+/* set links to default color */
+a {
+	text-decoration: underline;
+	color: blue;
+}
+
+/* hides elements */
+nav, header, img {
+	display: none;
+}

@@ -1,0 +1,77 @@
+/*
+	Final Project - Home Page
+	Author: Danh Tran
+	Date: 12/11/2016
+	Fixed-width 3 columns.
+*/
+
+#container {
+	width: 940px;
+	padding: 0 10px;
+}
+
+header {
+	margin-top: 10px;
+	padding: 10px 0;
+}
+
+/* navigation bar */
+nav {
+	width: 940px;
+	padding: 10px 0;
+}
+
+nav a {
+	padding: 11px 30px 11px;
+}
+
+/* left side bar */
+#leftside {
+	width: 200px;
+	margin: 10px 0;
+	padding: 0 5px 20px;
+	float: left;
+	background-color: honeydew;
+	color: maroon;
+}
+
+table {
+	margin: 20px 0;
+	width : 200px;
+	border: solid 1px black;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+h3 {
+	color: forestgreen;
+	text-align: center;
+	padding: 10px;
+	font-size: 1.4em;
+}
+
+th, td {				
+	border: solid 1px black;
+	padding: 4px;
+}
+
+/* main column */
+#main {
+	width: 700px;
+	padding: 15px;
+	float: left;
+}
+
+footer {
+	width: 940px;
+	padding: 10px 0;
+	display: block;
+	text-align: center;
+	background-color: khaki;
+	border-radius: 10px;
+	clear: both;
+}
+
+img {
+	margin: 5px;
+}
